@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center" style="color:#800080;">✨ Hi, I'm Trinaini Koppoju ✨</h1>
 
-<!--
-**koppojuTrinaini/koppojuTrinaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">💻 Data Science Student | 📊 Power BI Enthusiast | 🤖 ML & Android Intern | 💜 Passionate Learner</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+- 🎓 B.Tech in Data Science (2026), Sasi Institute of Technology & Engineering, JNTU Kakinada  
+- 🧠 Learning ML, Data Analysis, and Full-Stack Web Development  
+- 💡 Passionate about building dashboards and automating tasks  
+- 🥇 684+ problems solved on CodeChef, with Gold & Diamond badges  
+
+---
+
+## 🧠 Skills & Technologies
+
+| Category         | Skills                                                                 |
+|------------------|------------------------------------------------------------------------|
+| **Languages**     | Python, SQL, C (Basics)                                                 |
+| **Data Science**  | Pandas, NumPy, Excel, Power BI, Tableau                                 |
+| **ML & AI**       | Scikit-learn, TensorFlow (basic), Regression, Classification            |
+| **Web**           | HTML, CSS, JavaScript                                                   |
+| **Soft Skills**   | Communication, Problem Solving, Teamwork, Analytical Thinking           |
+
+---
+
+## 💼 Internship Experience
+
+🟣 **Nyera** – *AI/ML Intern*  
+• Built ML models and dashboards for real-world data  
+
+🟣 **SkillDzire** – *Data Science Intern*  
+• Created visual dashboards with Power BI  
+• Built regression/classification models with Scikit-learn  
+
+🟣 **AICTE & EduSkills** – *AI-ML + Android Internships*  
+• Developed Android apps using Kotlin & Java  
+• Real-world ML models using TensorFlow & Python  
+
+---
+
+## 📊 Interactive Dashboards
+
+<table>
+  <tr>
+    <td align="center"><b>Power BI Dashboard</b></td>
+    <td align="center"><b>Tableau Visualization</b></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://drive.google.com/file/d/1_vLwLEcUW_mvC9iJl-hdw51o_HD50N53/view?usp=drivesdk">
+        <img src="https://github.com/koppojuTrinaini/assets/blob/main/powerbi-preview.png" alt="Power BI" width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://drive.google.com/file/d/1_l8obA2-8zv4NrRSx9e48Ih4qTdBp-oH/view?usp=drivesdk">
+        <img src="https://github.com/koppojuTrinaini/assets/blob/main/tableau-preview.png" alt="Tableau" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+> _Click on the images to explore the dashboards._
+
+---
+
+## 📈 Chat Consistency & Streak Tracker
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=koppojuTrinaini&theme=purple" alt="GitHub Streak" />
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=koppojuTrinaini&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+## 🚀 Projects
+
+- 🍫 [Choco Webpage](https://koppojutrinaini.github.io/Choco/) – Responsive chocolate-themed webpage  
+- 🌡️ [Temperature Converter](https://koppojutrinaini.github.io/TempConvert-/) – Convert °C ↔ °F ↔ K  
+- 💼 [Portfolio Site](https://koppojutrinaini.github.io/Trinaini-Koppoju/) – Interactive showcase of my work
+
+---
+
+## 📜 Certifications
+
+- ✅ Python for Data Science – NPTEL  
+- ✅ Joy of Computing Using Python – NPTEL  
+- ✅ MongoDB – Infosys Springboard  
+- ✅ IBM SkillBuild – Getting Started with Data  
+
+---
+
+## 🤝 Let’s Connect!
+
+- 📬 Email: [koppojutrinaini@gmail.com](mailto:koppojutrinaini@gmail.com)  
+- 🌐 Portfolio: [Portfolio Website](https://koppojutrinaini.github.io/Trinaini-Koppoju/)  
+- 💻 GitHub: [@koppojuTrinaini](https://github.com/koppojuTrinaini)  
+- 🧠 CodeChef: [@trinaini](https://www.codechef.com/users/trinaini)  
+
+---
+
+> 💜 _“Turning data into stories and problems into solutions.”_
