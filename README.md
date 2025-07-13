@@ -67,11 +67,15 @@
 
 ## 📈 Chat Consistency & Streak Tracker
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=koppojuTrinaini&theme=purple" alt="GitHub Streak" />
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=koppojuTrinaini&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
+<div align="center">
+
+<!-- Purple-themed GitHub Streak -->
+<img src="https://streak-stats.demolab.com?user=koppojuTrinaini&theme=purple&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="70%" />
+
+<!-- Purple-themed Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=koppojuTrinaini&theme=react&area=true&hide_border=true&color=9B59B6&point=8E44AD&line=BB8FCE&bg_color=F9EBFF" alt="GitHub Contribution Graph" width="90%" />
+
+</div>
 
 ---
 
