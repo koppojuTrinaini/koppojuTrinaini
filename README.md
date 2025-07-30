@@ -1,5 +1,6 @@
 <h1 align="center" style="color:#800080;">✨ Hi, I'm Trinaini Koppoju ✨</h1>
 
+
 <p align="center">💻 Data Science Student | 📊 Power BI Enthusiast | 🤖 ML & Android Intern | 💜 Passionate Learner</p>
 
 ---
