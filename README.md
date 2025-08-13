@@ -1,16 +1,15 @@
 <h1 align="center" style="color:#800080;">✨ Hi, I'm Trinaini Koppoju ✨</h1>
 
-
 <p align="center">💻 Data Science Student | 📊 Power BI Enthusiast | 🤖 ML & Android Intern | 💜 Passionate Learner</p>
 
 ---
 
 ## 📌 About Me
 
-- 🎓 B.Tech in Data Science (2026), Sasi Institute of Technology & Engineering, JNTU Kakinada  
-- 🧠 Learning ML, Data Analysis, and Full-Stack Web Development  
-- 💡 Passionate about building dashboards and automating tasks  
-- 🥇 684+ problems solved on CodeChef, with Gold & Diamond badges  
+- 🎓 **B.Tech in Data Science (2026)** – Sasi Institute of Technology & Engineering, JNTU Kakinada  
+- 🧠 Learning **ML, Data Analysis, and Full-Stack Web Development**  
+- 💡 Passionate about **building dashboards** and **automating tasks**  
+- 🥇 **684+ problems solved** on CodeChef, with Gold & Diamond badges  
 
 ---
 
@@ -18,11 +17,11 @@
 
 | Category         | Skills                                                                 |
 |------------------|------------------------------------------------------------------------|
-| **Languages**     | Python, SQL, C (Basics)                                                 |
-| **Data Science**  | Pandas, NumPy, Excel, Power BI, Tableau                                 |
-| **ML & AI**       | Scikit-learn, TensorFlow (basic), Regression, Classification            |
-| **Web**           | HTML, CSS, JavaScript                                                   |
-| **Soft Skills**   | Communication, Problem Solving, Teamwork, Analytical Thinking           |
+| **Languages**     | Python, SQL, C (Basics)                                                |
+| **Data Science**  | Pandas, NumPy, Excel, Power BI, Tableau                                |
+| **ML & AI**       | Scikit-learn, TensorFlow (Basic), Regression, Classification          |
+| **Web**           | HTML, CSS, JavaScript                                                  |
+| **Soft Skills**   | Communication, Problem Solving, Teamwork, Analytical Thinking         |
 
 ---
 
@@ -66,18 +65,21 @@
 
 ---
 
-## 📈 Chat Consistency & Streak Tracker
+## 📈 GitHub Streak & Activity
 
 <div align="center">
 
 <!-- Purple-themed GitHub Streak -->
 <img 
-  src="https://streak-stats.demolab.com?user=koppojuTrinaini&theme=highcontrast&background=DEG,800080,DA70D6,BA55D3&ring=DA70D6&fire=BA55D3&currStreakLabel=FFFFFF&border_radius=10"
+  src="https://streak-stats.demolab.com?user=koppojuTrinaini&theme=highcontrast&background=DEG,800080,DA70D6,BA55D3&ring=DA70D6&fire=BA55D3&currStreakLabel=FFFFFF&border_radius=10&cache_seconds=1800"
   alt="GitHub Streak"
   width="75%" />
 
 <!-- Purple-themed Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=koppojuTrinaini&theme=react&area=true&hide_border=true&color=9B59B6&point=8E44AD&line=BB8FCE&bg_color=F9EBFF" alt="GitHub Contribution Graph" width="90%" />
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=koppojuTrinaini&theme=react&area=true&hide_border=true&color=9B59B6&point=8E44AD&line=BB8FCE&bg_color=F9EBFF" 
+  alt="GitHub Contribution Graph" 
+  width="90%" />
 
 </div>
 
@@ -87,7 +89,7 @@
 
 - 🍫 [Choco Webpage](https://koppojutrinaini.github.io/Choco/) – Responsive chocolate-themed webpage  
 - 🌡️ [Temperature Converter](https://koppojutrinaini.github.io/TempConvert-/) – Convert °C ↔ °F ↔ K  
-- 💼 [Portfolio Site](https://koppojutrinaini.github.io/Trinaini-Koppoju/) – Interactive showcase of my work
+- 💼 [Portfolio Site](https://koppojutrinaini.github.io/Trinaini-Koppoju/) – Interactive showcase of my work  
 
 ---
 
@@ -109,4 +111,6 @@
 
 ---
 
-> 💜 _“Turning data into stories and problems into solutions.”_
+<p align="center" style="color:purple; background-color:black; padding:15px; border-radius:10px; font-size:18px; line-height:1.5;">
+  ⚡ "I don’t just write code; I whisper to my laptop, charm my datasets, bribe my bugs with coffee, and occasionally perform dramatic standoffs with semicolons until they surrender. In the end, I turn caffeine into algorithms, bugs into legendary battle stories, and every error into a plot twist for my next coding adventure." ⚡
+</p>
